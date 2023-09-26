@@ -1,6 +1,6 @@
 import bcrypt from 'bcrypt'
 
-export const hashPassword = async(password) =>{
+export const hashPassword = async(password) =>{// here we are receiving the plane password  
     try{
         const saltRounds = 10
         const hashedPassword = await bcrypt.hash(password, saltRounds)
