@@ -13,13 +13,10 @@ const Policy = () => {
           />
         </div>
         <div className="col-md-4">
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
-          <p>add privacy policy</p>
+          <p>1. We prioritize the security of your personal information on our ecommerce platform.</p>
+          <p>2. Your data is collected solely for transactional purposes and will not be shared with third parties.</p>
+          <p>3. We employ industry-standard encryption to safeguard your sensitive information during online transactions.</p>
+          <p>4. You have the right to control and request the deletion of your data as outlined in our privacy policy.</p>
         </div>
       </div>
     </Layout>
