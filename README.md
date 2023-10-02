@@ -4,16 +4,19 @@ For deploying this project work into your system follow this instruction
 
 
 Step:1
+
       download the code and make ECOMMERCE-APP is the main root
 
       
 Step:2
+
       In the main root use command--- "npm install"
       
       this will install all dependencies presented in the package.json
 
       
 Step:3
+
       Update .env file with your own data
       
       1. PORT number
@@ -26,12 +29,14 @@ Step:3
 
       
 Step:4
+
       Now use this command "cd client" for changing the directory
       
       npm install
 
       
 Step:5
+
       Once completed this you can use command on root directory
       
       npm run dev
